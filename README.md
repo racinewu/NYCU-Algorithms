@@ -27,3 +27,11 @@ Lecturer: 荊宇泰
 ## PA
 * PA1 2D Closest Pair
 * PA2 Optimal BST
+
+## Exam
+* 2018 mid
+* 2022 final
+* 2024 mid
+* 2024 final
+* 2025 mid
+* 2025 final
