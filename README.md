@@ -5,17 +5,17 @@ Lecturer: 荊宇泰
 
 ## Lecture
 * Algorithm Introduction
-* Problem Analysis
+* Probabilistic Analysis
 * Analysis Quicksort
-* Advanced Design Analysis
 * Selection
-* Red Black Tree
-* Amotized Analysis
-* Greedy
 * Data Structure Review
+* Red Black Tree
+* Advanced Design Analysis
+* Greedy
+* Amortized Analysis
+* Mergeable Heaps
 * Union Find
 * Graph1&2
-* Mergeable Heaps
 * NP
 * Sorting Network
 
