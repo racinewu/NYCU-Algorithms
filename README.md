@@ -1,7 +1,7 @@
 # NYCU-Algorithms
 NYCU 2025 Spring Algorithms
 
-Lecturer: 荊宇泰
+Lecturer: 荊宇泰 Yu-Tai Ching
 
 ## Lecture
 - Algorithm Introduction
@@ -19,12 +19,12 @@ Lecturer: 荊宇泰
 - NP
 - Sorting Network
 
-## HW
+## Homework
 - HW1 Master Theorem
 - HW2 Dynamic Table
 - HW3 Fibonacci Heap
 
-## PA
+## Programming Assignment
 - PA1 2D Closest Pair
 - PA2 Optimal BST
 
