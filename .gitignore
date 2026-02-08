@@ -1,0 +1,13 @@
+Books/
+Slides/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.gz
+*.xdv
+*.docx
+*.png
+*.zip
+*.exe
+Midterm Classrooms.pdf
