@@ -1,11 +1,6 @@
 Books/
 Slides/
-*.aux
-*.fdb_latexmk
-*.fls
-*.log
-*.gz
-*.xdv
+Homework/
 *.docx
 *.png
 *.zip
