@@ -1,7 +1,11 @@
 # NYCU-Algorithms
+
 NYCU 2025 Spring Algorithms
 
 Lecturer: 荊宇泰 Yu-Tai Ching
+
+## Textbook
+- [T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein, *Introduction to Algorithms*, 3rd ed. MIT Press, 2009.](https://www.google.com.tw/books/edition/Introduction_to_Algorithms_third_edition/i-bUBQAAQBAJ?hl=zh-TW&gbpv=0)
 
 ## Lecture
 - Algorithm Introduction
@@ -25,8 +29,8 @@ Lecturer: 荊宇泰 Yu-Tai Ching
 - HW3 Fibonacci Heap
 
 ## Programming Assignment
-- PA1 2D Closest Pair
-- PA2 Optimal BST
+- [PA1](/PA/PA1/) 2D Closest Pair
+- [PA2](/PA/PA2/) Optimal BST
 
 ## Exam
 - 2018 mid
