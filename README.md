@@ -33,9 +33,9 @@ Lecturer: 荊宇泰 Yu-Tai Ching
 - [PA2](/PA/PA2/) Optimal BST
 
 ## Exam
-- 2018 mid
-- 2022 final
-- 2024 mid
-- 2024 final
-- 2025 mid
-- 2025 final
+- 2018 mid [pdf](/Exam/2018_algo_midterm.pdf)
+- 2023 mid [pdf](/Exam/2023_algo_midterm.pdf)
+- 2024 mid [pdf](/Exam/2024_algo_midterm.pdf)
+- 2024 final [pdf](/Exam/2024_algo_final.pdf)
+- 2025 mid [web](https://hackmd.io/@KentLee/ByXd-R7ylg),  [pdf-backup](/Exam/2025_algo_midterm.pdf)
+- 2025 final [web](https://hackmd.io/@toosyou/HJMNyA17eg),  [pdf-backup](/Exam/2025_algo_midterm.pdf)
